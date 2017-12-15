@@ -1,5 +1,5 @@
 name: mdbook
-version: 'v0.0.28'
+version: '0.0.28'
 summary: Create book from markdown files
 description: |
   mdBook is a utility to create modern online books from Markdown files.
